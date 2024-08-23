@@ -1,7 +1,0 @@
-#ifndef __RCC_H
-#define __RCC_H
-
-//≈‰÷√RCC ±÷” ˜
-void RCC_ClockInit();
-
-#endif
