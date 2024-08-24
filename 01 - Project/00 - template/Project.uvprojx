@@ -435,6 +435,11 @@
           <GroupName>Hardware</GroupName>
           <Files>
             <File>
+              <FileName>rcc.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Hardware\Source\rcc.c</FilePath>
+            </File>
+            <File>
               <FileName>stm32f1xx_it.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\Hardware\Source\stm32f1xx_it.c</FilePath>
